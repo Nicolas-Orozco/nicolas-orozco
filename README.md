@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **nicolasorozcodavila@gmail.com**
 
-- ⚡ Fun fact **I've assembled the PC I'm currently using to write this**
+- ⚡ Fun fact **I've assembled the PC which I'm currently using to write this**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
