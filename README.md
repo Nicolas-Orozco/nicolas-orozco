@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas-orozco&show_icons=true&locale=en&layout=compact" alt="nicolas-orozco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-orozco&show_icons=true&locale=en" alt="nicolas-orozco" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-orozco&" alt="nicolas-orozco" /></p>
