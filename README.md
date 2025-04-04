@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas-orozco&show_icons=true&locale=en&layout=compact" alt="nicolas-orozco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-orozco&" alt="nicolas-orozco" /></p>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue&preferLogin=false">    <img  alt="nicolas-orozco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolas-orozco?cardType=github&theme=vue&preferLogin=false" />  </a>
